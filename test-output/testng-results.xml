@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[maven installed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2019-11-08T10:48:20Z" finished-at="2019-11-08T10:48:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2019-11-08T10:48:20Z" finished-at="2019-11-08T10:48:20Z">
+      <class name="TY_maven.Demo_Maven.TestMaven">
+        <test-method status="PASS" signature="testmvn()[pri:0, instance:TY_maven.Demo_Maven.TestMaven@75f9eccc]" name="testmvn" duration-ms="18" started-at="2019-11-08T10:48:20Z" finished-at="2019-11-08T10:48:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[maven installed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testmvn -->
+      </class> <!-- TY_maven.Demo_Maven.TestMaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
